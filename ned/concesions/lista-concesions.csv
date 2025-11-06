@@ -1,0 +1,2 @@
+address,hwaddr,client_id,valid_lifetime,expire,subnet_id,fqdn_fwd,fqdn_rev,hostname,state,user_context
+192.168.10.31,02:42:ac:11:00:10,,600,1762429902,1,0,0,cliente1,0,
